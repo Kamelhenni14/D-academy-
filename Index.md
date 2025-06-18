@@ -1,13 +1,45 @@
----
-layout: default
-title: مرحبًا بكم في متجر الكاميرات
----
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>تركيب كاميرات المراقبة - عرض خاص</title>
+  <style>
+    body { font-family: Tahoma, sans-serif; margin: 0; padding: 0; background: #f0f2f5; color: #111; }
+    .container { max-width: 600px; margin: auto; padding: 20px; background: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.1); border-radius: 8px; margin-top: 40px; }
+    h1 { color: #d91e18; text-align: center; }
+    ul { padding: 0 20px; }
+    li { margin-bottom: 10px; }
+    .cta { background: #28a745; color: #fff; padding: 15px; text-align: center; margin-top: 20px; font-size: 18px; border-radius: 8px; text-decoration: none; display: block; }
+    .cta:hover { background: #218838; }
+    .testimonials { margin-top: 30px; font-size: 14px; background: #f9f9f9; padding: 10px; border-radius: 6px; }
+    .footer { text-align: center; font-size: 12px; color: #555; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>هل منزلك آمن فعلًا؟</h1>
+    <p><strong>تركيب كاميرات مراقبة عالية الدقة</strong> – صوت وصورة مباشرة على الهاتف، مع عرض خاص محدود!</p>
+    
+    <ul>
+      <li>✔️ مراقبة فورية من أي مكان</li>
+      <li>✔️ صوت ثنائي الاتجاه (تسمع وتتكلم)</li>
+      <li>✔️ بدون XVR – كل شيء على الهاتف</li>
+      <li>✔️ تركب في أقل من ساعتين</li>
+      <li>✔️ كفالة حقيقية + خدمة ما بعد البيع</li>
+    </ul>
 
-# متجر الكاميرات
+    <a class="cta" href="https://wa.me/213XXXXXXXXX?text=السلام%20عليكم،%20أريد%20مزيدًا%20من%20التفاصيل%20عن%20الكاميرات">📞 احجز الآن - تواصل معنا على واتساب</a>
 
-مرحبًا! هنا تجد أفضل أنواع الكاميرات للبيع.
+    <div class="testimonials">
+      <p>💬 "خدمتهم سريعة والكاميرات ممتازة، ركبولي في نفس اليوم" – سامي من وهران</p>
+      <p>💬 "ثقة وأمانة، والأهم تقدر تشوف كل شيء من الهاتف" – نسرين من الجزائر العاصمة</p>
+    </div>
 
-## بعض الكاميرات المتوفرة:
-
-- [كاميرا كانون احترافية](products/canon.md)
-- [كاميرا مراقبة خارجية](products/security.md)
+    <div class="footer">
+      هذا العرض صالح لعدد محدود من الزبائن في منطقتك<br>
+      © كمال - خدمات المراقبة الذكية
+    </div>
+  </div>
+</body>
+</html>
